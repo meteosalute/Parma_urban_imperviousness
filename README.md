@@ -2,4 +2,4 @@
 
 
 
-[The data link of QGIS poject ] (https://meteosalute.github.io/Parma_urban_imperviousness/index.html)
+[The data link of QGIS project with the data] (https://meteosalute.github.io/Parma_urban_imperviousness/index.html)
