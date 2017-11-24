@@ -1,5 +1,7 @@
 #!/usr/bin/env Rscript
 
+#!/usr/bin/env Rscript
+
 #############################################################################################################
 # How to Convert ASTER L1T HDF-EOS VNIR/SWIR datasets from Radiance Stor###and  exports as GeoTIFF files.
 #-------------------------------------------------------------------------------
@@ -492,4 +494,4 @@ setwd(old_dir)
 # spectral irradiance on intercomparisons of earth-observing sensors. In 
 # International Symposium on Remote Sensing, International Society for Optics
 # and Photonics, pp. 260-269, at http://dx.doi.org/10.1117/12.450668.
-###################################################################################################################à
+###################################################################################################################
