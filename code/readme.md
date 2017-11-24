@@ -1,6 +1,6 @@
 
 This code is a modification of 
-https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t
+https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t given by 
 
 Aaron Friesz¹ & Cole Krehbiel¹
 
@@ -9,7 +9,7 @@ Sioux Falls, South Dakota, USA. Work performed under USGS contract G15PD00766 fo
 
 ²LP DAAC Work performed under NASA contract NNG14HH33I.
 
-and presented
+and presented at 
 
 https://lpdaac.usgs.gov/sites/default/files/public/elearning/ASTER_L1T_Tutorial.html
 
